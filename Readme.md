@@ -2,13 +2,13 @@
 
 ## 📦Packages used
 
-> graphql
-> express-graphql
-> axios
-> express
-> json-server
+- graphql
+- express-graphql
+- axios
+- express
+- json-server
 
 ## 💡Project Idea
 
-> 📖Learn GraphQL
-> It's a relationship between users and companies
+- 📖Learn GraphQL
+- It's a relationship between users and companies
